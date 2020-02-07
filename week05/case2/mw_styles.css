@@ -26,10 +26,16 @@ body {
    font-family: 'Century Gothic', sans-serif;
 }
 
-body > footer address {
+body > footer {
    background-color: rgb(208, 184, 109);
-   padding-top: 5px;
-   padding-bottom: 5px;
+   padding: 5px 0px;
+}
+
+address {
+   font-style: normal;
+   font-size: 0.9em;
+   text-align: center;
+   padding: 10px 0px;
 }
 
 /* Navigation Styles */
