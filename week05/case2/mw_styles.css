@@ -21,6 +21,10 @@ html {
 
 /* Heading Styles */
 
+h1, h2 {
+   font-weight: normal;
+}
+
 body {
    background-color: rgb(227, 210, 173);
    font-family: 'Century Gothic', sans-serif;
