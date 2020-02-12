@@ -3,9 +3,13 @@
    font-family: Champagne;
    src: url(cac_champagne.woff) format('woff'),
         url(cac_champagne.tff) format('truetype');
+}
+@font-face {
    font-family: Grunge;
    src: url(1942.woff) format('woff'),
         url(1942.tff) format('truetype');
+}
+@font-face {
    font-family: Dobkin;
    src: url(DobkinPlain.woff) format('woff'),
         url(DobkinPlain.ttf) format('truetype');
