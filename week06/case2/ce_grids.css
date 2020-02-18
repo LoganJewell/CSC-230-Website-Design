@@ -76,3 +76,8 @@ div.column80 {
 
 /* Grid Spacing Styles */
 
+container, row, .column, .cell, div.a, div.cell {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
