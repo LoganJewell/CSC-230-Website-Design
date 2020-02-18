@@ -35,11 +35,11 @@ header, ul, nav, li, a {
 
 /* Row Styles */
 
-div.row {
+.row {
    clear: both;
 }
 
-div.row::after {
+.row::after {
    clear: both;
    content: "";
    display: table;
@@ -48,7 +48,7 @@ div.row::after {
 
 /* Page Header Styles */
 
-body > header > img {
+header > img {
    display: block;
    width: 70%;
    float: left;
