@@ -30,7 +30,6 @@ body {
    max-width: 960px; 
 }
 
-
 img {
    display: block;
    width: 100%;
@@ -43,10 +42,34 @@ nav > ul a:link, nav > ul > a:visited {
 
 /* Body Header Styles */
 
+body > header {
+   background-color: rgb(191, 68, 70);
+   height: 40px;
+}
 
+body > header > nav > ul > li {
+   list-style: none;
+   display: block;
+   float: left;
+   margin-right: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+}
+
+body > header > nav > ul > li a:link, body > header > nav > ul > li a:visited {
+   font-size: 0.9em;
+   color: rgb(51, 51, 51);
+}
+
+body > header > nav > ul > li a:hover, body > header > nav > ul > li a:active {
+   color: rgb(255, 211, 211);
+}
 
 
 /* DIV Container Styles */
+
 
 
 
