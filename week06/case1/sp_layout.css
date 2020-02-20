@@ -22,6 +22,8 @@ html {
 body {
    max-width: 960px;
    min-width: 640px;
+   margin-left: auto;
+   margin-right: auto;
    width: 95%;
    min-height: 100%;
 }
@@ -48,19 +50,19 @@ header, ul, nav, li, a {
 
 /* Page Header Styles */
 
-header > img {
+body > header > img {
    display: block;
    width: 70%;
    float: left;
 }
 
-header > nav {
+body > header > nav  li {
    float: left;
    padding-left: 2%;
    padding-right: 2%;
    width: 30%;
 }
-header > nav > ul > li > a {
+body > header > nav a {
    display: block;
    width: 100%;
 }
