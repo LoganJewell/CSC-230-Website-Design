@@ -23,3 +23,21 @@ section > article > ol > li {
     color: whitesmoke;
     text-align: center;
 }
+section > article > ol > li > ul > li {
+    background-color: cadetblue;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+}
+a:visited {
+    color: #222;
+}
+a:hover {
+    color: goldenrod;
+}
+a:focus {
+    outline: thin dotted;
+}
+a:hover, a:active {
+    outline: 0;
+}
