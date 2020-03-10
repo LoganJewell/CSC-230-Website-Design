@@ -34,6 +34,8 @@ section > article > ol {
     color: whitesmoke;
     text-align: center;
     text-decoration: none;
+}
+section > article > ol > li >ul > li {
     list-style: none;
 }
 a:visited {
