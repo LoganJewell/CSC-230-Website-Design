@@ -23,7 +23,7 @@ section > article > ol > li {
     color: whitesmoke;
     text-align: center;
 }
-section > article > ol > li > ul > li {
+section > article > ol {
     background-color: cadetblue;
     color: whitesmoke;
     text-align: center;
