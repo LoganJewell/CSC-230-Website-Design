@@ -25,6 +25,7 @@ h1, h3 {
 /* Nav Styles */
 section > article > ol > li {
     background-color: cadetblue;
+    text-emphasis: bold;
     color: whitesmoke;
     text-align: center;
     list-style: none;
