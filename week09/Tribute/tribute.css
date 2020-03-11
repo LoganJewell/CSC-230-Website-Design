@@ -14,13 +14,10 @@ html {
     background-color: #b34a48;
 }
 
-body {
-    background-color: #222;
-}
 h1 {
     text-align: center;
     text-transform: uppercase;
-    color: whitesmoke;
+    color: #222;
 }
 
 article {
@@ -28,11 +25,10 @@ article {
     color: whitesmoke;
     text-align: center;
 }
-}
 
 footer {
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 0.6em;
 	margin-top: 4%;
 	border-top: 3px outset #cf7b79;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
