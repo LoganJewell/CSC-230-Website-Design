@@ -14,17 +14,25 @@ html {
     background-color: #b34a48;
 }
 
+body {
+    background-color: #222;
+}
 h1 {
     text-align: center;
     text-transform: uppercase;
-    color: #222;
+    color: whitesmoke;
 }
 
-
+article {
+    background-color: #222;
+    color: whitesmoke;
+    text-align: center;
+}
+}
 
 footer {
 	text-align: center;
-	font-size: 0.6em;
+	font-size: 1.5em;
 	margin-top: 4%;
 	border-top: 3px outset #cf7b79;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
