@@ -15,8 +15,27 @@ html {
 }
 
 h1 {
+    text-align: center;
     text-transform: uppercase;
     color: #222;
+}
+
+img {
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+	vertical-align: middle;
+}
+
+audio, canvas, video {
+	display: inline-block;
+*display: inline;
+*zoom: 1;
+}
+
+header img {
+	float: none;
+	width: 96%;
+	margin: 2% 2% 0% 2%;
 }
 
 footer {
