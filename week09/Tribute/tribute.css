@@ -1,0 +1,38 @@
+/*
+    Author: Logan Jewell
+    Date: 03/11/20
+    Description: Tribute page to slap bass.
+    Resources: HTML5 and CSS3
+*/
+
+@charset "utf-8";
+
+/* Body Styles */
+html {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #b34a48;
+}
+
+h1 {
+    background-color: #b34a48;
+    text-align: center;
+    text-transform: uppercase;
+    color: #222;
+}
+
+article {
+    background-color: #222;
+    color: whitesmoke;
+    text-align: center;
+}
+
+footer {
+	text-align: center;
+	font-size: 0.6em;
+	margin-top: 4%;
+	border-top: 3px outset #cf7b79;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	clear: both;
+	padding-bottom: 20px;
+}
